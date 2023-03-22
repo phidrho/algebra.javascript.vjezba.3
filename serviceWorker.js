@@ -14,7 +14,7 @@ const addResourcesToCache = async (resources) => {
         "/",
         "/index.html",
         "/css/style.css",
-        "/js/app.js",
+        "/app.js",
         "/media/icons/32.png",
         "/media/icons/512.png"
         ])
