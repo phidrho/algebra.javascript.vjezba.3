@@ -12,11 +12,11 @@ const addResourcesToCache = async (resources) => {
     event.waitUntil(
       addResourcesToCache([
         "/",
-        "/index.html",
-        "/css/style.css",
+        "/algebra.javascript.vjezba.3/index.html",
+        "/algebra.javascript.vjezba.3/css/style.css",
         "/app.js",
-        "/media/icons/32.png",
-        "/media/icons/512.png"
+        "/algebra.javascript.vjezba.3/media/icons/32.png",
+        "/algebra.javascript.vjezba.3/media/icons/512.png"
         ])
     );
   });
